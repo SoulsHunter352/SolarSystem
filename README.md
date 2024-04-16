@@ -1,2 +1,2 @@
 Solar System simulation in Python using OpenGL.
-![image](https://github.com/SoulsHunter352/SolarSystem/assets/141568680/8bd8c76e-f52a-497f-b7a0-01229dff6bb3)
+![SolarSystem](https://github.com/SoulsHunter352/SolarSystem/assets/141568680/ced8aca2-8608-4d0a-b746-d87008dd9d42)
